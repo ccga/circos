@@ -1,0 +1,13 @@
+chr26 100000000 100000000 FLT3 url=http://www.ccga.io/index.php/FLT3
+chr26 100000000 100000000 NPM1 url=http://www.ccga.io/index.php/NPM1
+chr26 100000000 100000000 CEBPA url=http://www.ccga.io/index.php/CEBPA
+chr26 100000000 100000000 RUNX1 url=http://www.ccga.io/index.php/RUNX1
+chr26 100000000 100000000 KIT url=http://www.ccga.io/index.php/KIT
+chr26 100000000 100000000 NRAS url=http://www.ccga.io/index.php/NRAS
+chr26 100000000 100000000 WT1 url=http://www.ccga.io/index.php/WT1
+chr26 100000000 100000000 IDH1 url=http://www.ccga.io/index.php/IDH1
+chr26 100000000 100000000 IDH2 url=http://www.ccga.io/index.php/IDH2
+chr26 100000000 100000000 TET2 url=http://www.ccga.io/index.php/TET2
+chr26 100000000 100000000 DNMT3A url=http://www.ccga.io/index.php/DNMT3A
+chr26 100000000 100000000 ASXL1 url=http://www.ccga.io/index.php/ASXL1
+chr26 100000000 100000000 TP53 url=http://www.ccga.io/index.php/TP53

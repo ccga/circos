@@ -1,0 +1,2 @@
+chr5 40000000 180000000 url=http://www.ccga.io/index.php/AML_Cumulative_Copy_Number_Profile
+chr7 1 159000000 url=http://www.ccga.io/index.php/AML_Cumulative_Copy_Number_Profile
